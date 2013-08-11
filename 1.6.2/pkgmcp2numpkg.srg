@@ -9120,7 +9120,7 @@ MD: net/minecraft/client/Minecraft/func_71405_e ()V net/minecraft/client/Minecra
 MD: net/minecraft/client/Minecraft/func_71407_l ()V net/minecraft/client/Minecraft/func_71407_l ()V
 MD: net/minecraft/client/Minecraft/func_71408_n ()Ljava/lang/String; net/minecraft/client/Minecraft/func_71408_n ()Ljava/lang/String;
 MD: net/minecraft/client/Minecraft/func_71409_c (Ljava/lang/String;)Z net/minecraft/client/Minecraft/func_71409_c (Ljava/lang/String;)Z
-MD: net/minecraft/client/Minecraft/func_71410_x ()Lnet/minecraft/client/Minecraft; net/minecraft/client/Minecraft/func_71410_x ()Lnet/minecraft/client/Minecraft;
+MD: net/minecraft/client/Minecraft/getMinecraft ()Lnet/minecraft/client/Minecraft; net/minecraft/client/Minecraft/func_71410_x ()Lnet/minecraft/client/Minecraft;
 MD: net/minecraft/client/Minecraft/func_71411_J ()V net/minecraft/client/Minecraft/func_71411_J ()V
 MD: net/minecraft/client/Minecraft/func_90020_K ()I net/minecraft/client/Minecraft/func_90020_K ()I
 MD: net/minecraft/client/Minecraft/func_99999_d ()V net/minecraft/client/Minecraft/func_99999_d ()V
